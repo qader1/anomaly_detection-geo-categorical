@@ -1,0 +1,5 @@
+raw/*
+*.png
+*.zip
+*.ipynb
+__pycache__/*
